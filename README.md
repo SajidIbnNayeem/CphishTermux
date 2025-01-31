@@ -24,3 +24,16 @@ CphishTermux is techniques to take cam shots of target's phone front camera or P
   <li>Ubuntu</li>
   <li>Parrot Sec OS</li>
 </ul>
+### Installation
+```
+git clone https://github.com/SajidibnNayeem/CphishTermux.git
+```
+```
+cd CphishTermux
+```
+```
+chmod +x CphishTermux.sh
+```
+```
+bash CphishTermux.sh
+```
