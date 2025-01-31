@@ -1,4 +1,5 @@
 # CphishTermux
+Only for Termux
 <p align="center"><b>Grab Cam-Shots from target's Phone Front-Camera or PC Webcam just Sending a link </b></p>
 
 ## What is CphishTermux?
@@ -13,4 +14,13 @@ CphishTermux is techniques to take cam shots of target's phone front camera or P
   <li>Festival Wishing</li>
   <li>Live YouTube TV</li>
   <li>Online Meeting</li>
+</ul>
+
+
+## This Tool Tested On :
+<ul>
+  <li>Termux</li>
+  <li>Kali Linux</li>
+  <li>Ubuntu</li>
+  <li>Parrot Sec OS</li>
 </ul>
