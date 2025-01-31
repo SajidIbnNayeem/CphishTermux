@@ -1,5 +1,5 @@
 # CphishTermux
-Only for Termux
+<p align="center"><b>This Tool is Designed for Termux </b></p>
 <p align="center"><b>Grab Cam-Shots from target's Phone Front-Camera or PC Webcam just Sending a link </b></p>
 
 ## What is CphishTermux?
